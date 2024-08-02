@@ -2,7 +2,6 @@
      # Required packages
 # --------------------------- #
 
-
 import time, pyautogui
 import PySimpleGUI as sg # Needs to be installed
 import multiprocessing # Needs to be installed
@@ -13,9 +12,6 @@ import re, subprocess # Needs to be installed
 from contextlib import contextmanager # Needs to be installed
 from threading import Lock # Needs to be installed
 from inspect import cleandoc # Needs to be installed
-
-
-
 
 # tkinter comes pre-installed with python
 
@@ -31,8 +27,6 @@ from server_controller import BDS_Wrapper as ServerInstance
 from player_list import PlayerList
 
 from backup import BackupListener, make_timestamp
-
-
 
 # --------------------------- #
         # Anti sleep
