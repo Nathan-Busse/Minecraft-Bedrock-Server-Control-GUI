@@ -159,9 +159,5 @@ Quit correctly
 
 Enjoy! 😉
 
-# Checkout an awesome resource pack I made to bring more life into your server:
-
-https://github.com/Nathan-Busse/MCBE-Ambiance-Sounds
-
 
 
